@@ -9,7 +9,7 @@
  用户端 uniapp（vue语法）
  管理后台 vue+elementUi
 
-# 软件截图
+# 软件截图-
 
 ![extending-a-theme](/01.png)
 ![extending-a-theme](/02.png)
